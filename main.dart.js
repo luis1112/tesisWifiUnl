@@ -109916,7 +109916,7 @@ s=f.c
 s.toString
 s=A.bT(s,e,t.w).w
 r=t.D
-q=A.d_(A.cp(A.a([A.aLT("assets/image/Icon-192.png",e,60),new A.bs(B.cR,A.bf("Universidad Nacional de Loja",e,e,e,e,B.dk,e,e),e),B.aKX,A.ds("FECHA Y HORA:",A.aN5(A.qf(e,!1).w)),B.aVW],r),B.a4,B.dg,B.ac),e,e)
+q=A.d_(A.cp(A.a([A.aLT("assets/image/logo_horizontal.png",e,60),new A.bs(B.cR,A.bf("Universidad Nacional de Loja",e,e,e,e,B.dk,e,e),e),B.aKX,A.ds("FECHA Y HORA:",A.aN5(A.qf(e,!1).w)),B.aVW],r),B.a4,B.dg,B.ac),e,e)
 p=A.bf("Datos de conexi\xf3n",e,e,e,e,B.dk,e,e)
 o=A.aXQ(f.d.e)
 n=A.bf("Datos externos",e,e,e,e,B.dk,e,e)
