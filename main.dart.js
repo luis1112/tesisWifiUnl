@@ -33347,7 +33347,7 @@ var $async$aJx=A.G(function(b,c){if(b===1)return A.C(c,r)
 while(true)switch(s){case 0:p=A
 o=A
 s=3
-return A.K(A.aJs("assets/image/icon.png",60,60),$async$aJx)
+return A.K(A.aJs("assets/image/Icon-192.png",60,60),$async$aJx)
 case 3:q=p.x8(o.a([c,A.rt("Universidad Nacional de Loja"),new A.uk(B.tX,A.qF(u.G,A.A_(null,null,null,null,null,null,null,null,null,B.cU,null,null,20,null,B.jw,null,!0,null,null,null,null),B.aR7)),A.dN("FECHA Y HORA:",A.aN5(a)),A.qF("LOJA - ECUADOR",B.aTd,null)],t.n_),B.eU,B.FG,B.fp)
 s=1
 break
@@ -109916,7 +109916,7 @@ s=f.c
 s.toString
 s=A.bT(s,e,t.w).w
 r=t.D
-q=A.d_(A.cp(A.a([A.aLT("assets/image/icon.png",e,60),new A.bs(B.cR,A.bf("Universidad Nacional de Loja",e,e,e,e,B.dk,e,e),e),B.aKX,A.ds("FECHA Y HORA:",A.aN5(A.qf(e,!1).w)),B.aVW],r),B.a4,B.dg,B.ac),e,e)
+q=A.d_(A.cp(A.a([A.aLT("assets/image/Icon-192.png",e,60),new A.bs(B.cR,A.bf("Universidad Nacional de Loja",e,e,e,e,B.dk,e,e),e),B.aKX,A.ds("FECHA Y HORA:",A.aN5(A.qf(e,!1).w)),B.aVW],r),B.a4,B.dg,B.ac),e,e)
 p=A.bf("Datos de conexi\xf3n",e,e,e,e,B.dk,e,e)
 o=A.aXQ(f.d.e)
 n=A.bf("Datos externos",e,e,e,e,B.dk,e,e)
