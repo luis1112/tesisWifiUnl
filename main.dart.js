@@ -31579,7 +31579,7 @@ if(s>=100){q.a=new A.y7(1,B.m.aJ(r+180+b.uk(90),360),0.9,0.5).Od()
 break}}while(B.n.kp(a,new A.aIR(q)))
 return q.a},
 aYL(a,b){var s=null,r=A.a([b,b],t.t_),q=t.lO
-return A.TR(s,1,A.Pz(!1,s,0,new A.q1(B.da,B.dB,B.h1,A.M(new A.a0(r,new A.aKt(),q),!0,q.i("ad.E")),s,s),!0,B.j2),s,0.35,s,B.uw,new A.q1(B.da,B.dB,B.h1,r,s,s),!0,!1,!0,!1,B.oj,!1,10,B.qm,!0,B.lp,a)},
+return A.TR(s,1.8,A.Pz(!1,s,0,new A.q1(B.da,B.dB,B.h1,A.M(new A.a0(r,new A.aKt(),q),!0,q.i("ad.E")),s,s),!0,B.j2),s,0.35,s,B.uw,new A.q1(B.da,B.dB,B.h1,r,s,s),!0,!1,!0,!1,B.oj,!1,10,B.qm,!0,B.lp,a)},
 aYR(a){return A.cm(A.jT(a.length,new A.aKA(a),!0,t.l7),B.a5,B.a6,B.ad)},
 bh5(a,b){var s=null,r=B.l.p(a),q=r===1?"-90":""
 if(r===2)q="-80"
@@ -111607,7 +111607,7 @@ $1(a){var s=this.a.a,r=a.gyU()-(s.gn(0)>>>16&255),q=a.gv5()-(s.gn(0)>>>8&255),p=
 return Math.sqrt(r*r+q*q+p*p)<150},
 $S:226}
 A.aKt.prototype={
-$1(a){return a.bi(0.15)},
+$1(a){return a.bi(0.08)},
 $S:67}
 A.aKA.prototype={
 $1(a){var s=null,r=this.a[a],q=r.a
